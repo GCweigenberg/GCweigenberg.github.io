@@ -1,24 +1,19 @@
 ## This can be your internal website page / project page
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:**The purpose of this project is to tell a story using data visualizations. We chose to look at the World Happiness Report and visualize the rankings on a map over a 5 year period (2015-2019). Additionally, we want to see the metadata for each country to see what factors are leading to their happiness or lack thereof.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Happiness Score factors: GDP Per Capita. Family Score. Life Expectancy. Government Trust Score. Generosity Score.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Process:
+(1) Create a database to store our data from the World Happiness Report.
+(2) Use geocode to extract coordinates for each country in our data set.
+(3) Use SQL Alchemy to query our database and then merge with coordinates using pandas.
+(4) Convert DataFrame to a JSON file.
+(5) Set up Flask endpoints to read HTML files.
+(6) HTML file sets up Leaflet and reads JavaScript file for data.
 
 ### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
