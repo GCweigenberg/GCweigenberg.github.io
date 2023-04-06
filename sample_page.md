@@ -15,9 +15,9 @@ Process:
 ### 2. Assess assumptions on which statistical inference will be based
 
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Additional views of the interactive dashboard
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/world_happiness_image2.png?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
 
