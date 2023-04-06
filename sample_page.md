@@ -2,7 +2,7 @@
 
 **Project description:**The purpose of this project was to tell a story using data visualizations. My team chose to look at the World Happiness Report and visualize the rankings on a map over a 5 year period (2015-2019). Additionally, my team wanted to see the metadata for each country to see what factors are leading to their happiness or lack thereof.
 
-### The Happiness Score factors were via some of the following measures: 
+### The Happiness Score factors were determined via some of the following measures: 
 - GDP Per Capita
 - Family Score
 - Life Expectancy
