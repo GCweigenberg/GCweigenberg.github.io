@@ -1,6 +1,6 @@
 
 
-**Project description:**The purpose of this project was to tell a story using data visualizations. My team chose to look at the World Happiness Report and visualize the rankings on a map over a 5 year period (2015-2019). Additionally, my team wanted to see the metadata for each country to see what factors are leading to their happiness or lack thereof.
+**Project description:**The purpose of this project was to tell a story using data visualizations. My team chose to look at the World Happiness Report and visualize the rankings on a map over a 5 year period (2015-2019). Additionally, my team wanted to uncover the nitty-gritty metadata determining whether a country was happy or awaiting happiness.
 
 ### Our World Happiness Dashboard is able to filter and change based on the following input: 
 - GDP Per Capita
