@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis and Visualization projects
 
-[Project 1 Title](/sample_page)
+[World Happiness Report](/sample_page)
 <img src="images/world_happiness_image.png?raw=true"/>
 
 ---
