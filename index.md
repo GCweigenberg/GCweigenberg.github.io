@@ -8,8 +8,8 @@
 <img src="images/world_happiness_image.png?raw=true"/>
 
 ---
-[Belly-Button-CHart](/pdf/sample_presentation.pdf)
-<img src="images/belly-button-thumbnail.png?raw=true"/>
+[Belly-Button-Chart](https://dev.d6d8sw268yr3s.amplifyapp.com/)
+<img src="images/belly-button-tumbnail.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
