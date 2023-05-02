@@ -8,8 +8,8 @@
 <img src="images/world_happiness_image.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Belly-Button-CHart](/pdf/sample_presentation.pdf)
+<img src="images/belly-button-thumbnail.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
