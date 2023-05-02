@@ -8,7 +8,7 @@
 <img src="images/world_happiness_image.png?raw=true"/>
 
 ---
-[Belly-Button-Chart](https://dev.d6d8sw268yr3s.amplifyapp.com/)
+[Belly-Button-App](https://dev.d6d8sw268yr3s.amplifyapp.com/)
 <img src="images/belly-button-tumbnail.png?raw=true"/>
 
 ---
