@@ -25,4 +25,3 @@ In a nutshell, our process consisted of six steps:
 
 <img src="images/somaliaworldhappinessrank.png?raw=true"/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
