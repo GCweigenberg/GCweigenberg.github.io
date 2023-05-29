@@ -12,7 +12,7 @@
 <img src="images/belly-button-tumbnail.png?raw=true"/>
 
 ---
-[Crowdfunding ETL](http://example.com/)
+[Crowdfunding ETL](https://github.com/GCweigenberg/Crowdfunding_ETL)
 <img src="images/finalERDiagram.png?raw=true"/>
 
 ---
